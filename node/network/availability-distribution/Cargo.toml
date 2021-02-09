@@ -25,5 +25,5 @@ sp-application-crypto = { git = "https://github.com/paritytech/substrate", branc
 sp-keyring = { git = "https://github.com/paritytech/substrate", branch = "master" }
 sp-tracing = { git = "https://github.com/paritytech/substrate", branch = "master" }
 sc-keystore = { git = "https://github.com/paritytech/substrate", branch = "master" }
-assert_matches = "1.4.0"
+assert_matches = "1.5.0"
 maplit = "1.0"
